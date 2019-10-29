@@ -1,0 +1,124 @@
+{
+    "available destinations": {
+        "Hotel Eclipse": [
+            "reception",
+            "lounge-bar",
+            "restaurant",
+            "smoking-room",
+            "garden",
+            "rooftop",
+            "storage",
+            "cellar",
+            "bedroom",
+            "forest"
+        ],
+        "Temple of the Spheres": [
+            "road-of-the-hours",
+            "land-front",
+            "gulf-beach",
+            "closed-beach",
+            "main-chamber",
+            "glass-chamber",
+            "sea-front",
+            "sunken-cave",
+            "sunken-temple",
+            "forest",
+            "offshore",
+            "village"
+        ],
+        "port": [
+            "forest",
+            "rocky-shores"
+        ],
+        "village": [
+            "forest",
+            "minor-temple",
+            "road-of-the-hours"
+        ],
+        "forest": [
+            "mountain",
+            "village",
+            "reception",
+            "port",
+            "old-hut",
+            "road-of-the-hours"
+        ],
+        "mountain": [
+            "forest",
+            "hidden-cave"
+        ],
+        "minor-temple": [
+            "village"
+        ],
+        "old-hut": [
+            "forest",
+            "rocky-shores",
+            "hidden-port"
+        ],
+        "hidden-cave": [
+            "mountain"
+        ],
+        "hidden-port": [
+            "old-hut",
+            "rocky-shores",
+            "offshore"
+        ],
+        "rocky-shores": [
+            "offshore",
+            "hidden-port",
+            "port",
+            "sunken-cave",
+            "sunken-temple",
+            "old-hut"
+        ],
+        "sunken-cave": [
+            "rocky-shores",
+            "closed-beach",
+            "sunken-temple",
+            "offshore"
+        ],
+        "sunken-temple": [
+            "rocky-shores",
+            "offshore",
+            "sea-front"
+        ],
+        "offshore": [
+            "rocky-shores",
+            "port",
+            "sea-front",
+            "gulf-beach",
+            "closed-beach",
+            "hidden-port"
+        ],
+        "ferry-boat": [
+            "port"
+        ]
+    },
+    "forbidden locations": [
+        "glass-chamber",
+        "old-hut",
+        "sunken-cave",
+        "sunken-temple",
+        "offshore",
+        "rocky-shores",
+        "hidden-port",
+        "rooftop",
+        "main-chamber"
+    ],
+    "locked locations": [],
+    "bus destinations": [
+        "village",
+        "port",
+        "reception",
+        "road-of-the-hours"
+    ],
+    "bus state": [
+        "village",
+        "port",
+        "reception",
+        "road-of-the-hours"
+    ],
+    "room owners": {},
+    "walk cooldown": {},
+    "bus cooldown": {}
+}
