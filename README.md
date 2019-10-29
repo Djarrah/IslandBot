@@ -1,5 +1,5 @@
 # IslandBot by Djarrah
-*A simple discord in Python I made for the Symvasi RPG.*
+*A simple Discord bot in Python I made for the Symvasi RPG.*
 
 It implements 2 user movement types(affected by user timers) + 1 forced admin movement type commands thanks to json support.
 A 3-hours routine taks sends a backup of the data.json to a set backup channel.
